@@ -1,0 +1,94 @@
+ [
+  {
+    "titre": "Thé vert Sencha",
+    "prix": { 
+      "1kg": 50.00,
+
+ 
+      "500g": 27.00, 
+      "250g": 15.00
+    },
+    "image": "https://example.com/images/sencha.jpg"
+  },
+  {
+    "titre": "Thé noir Assam",
+    "prix": {
+      "1kg": 40.00,
+      "500g": 22.00,
+      "250g": 12.00
+    },
+    "image": "https://example.com/images/assam.jpg"
+  },
+  {
+    "titre": "Thé blanc Pai Mu Tan",
+    "prix": {
+      "1kg": 60.00,
+      "500g": 32.00,
+      "250g": 17.00
+    },
+    "image": "https://example.com/images/paimutan.jpg"
+  },
+  {
+    "titre": "Oolong Tie Guan Yin",
+    "prix": {
+      "1kg": 70.00,
+      "500g": 37.00,
+      "250g": 20.00
+    },
+    "image": "https://example.com/images/tieguanyin.jpg"
+  },
+  {
+    "titre": "Thé noir Darjeeling",
+    "prix": {
+      "1kg": 55.00,
+      "500g": 30.00,
+      "250g": 16.00
+    },
+    "image": "https://example.com/images/darjeeling.jpg"
+  },
+  {
+    "titre": "Thé vert Gunpowder",
+    "prix": {
+      "1kg": 45.00,
+      "500g": 25.00,
+      "250g": 13.00
+    },
+    "image": "https://example.com/images/gunpowder.jpg"
+  },
+  {
+    "titre": "Thé noir Ceylan",
+    "prix": {
+      "1kg": 48.00,
+      "500g": 26.00,
+      "250g": 14.00
+    },
+    "image": "https://example.com/images/ceylan.jpg"
+  },
+  {
+    "titre": "Thé blanc Silver Needle",
+    "prix": {
+      "1kg": 80.00,
+      "500g": 42.00,
+      "250g": 22.00
+    },
+    "image": "https://example.com/images/silverneedle.jpg"
+  },
+  {
+    "titre": "Oolong Da Hong Pao",
+    "prix": {
+      "1kg": 90.00,
+      "500g": 48.00,
+      "250g": 25.00
+    },
+    "image": "https://example.com/images/dahongpao.jpg"
+  },
+  {
+    "titre": "Thé vert Matcha",
+    "prix": {
+      "1kg": 120.00,
+      "500g": 65.00,
+      "250g": 35.00
+    },
+    "image": "https://example.com/images/matcha.jpg"
+  }
+] 
