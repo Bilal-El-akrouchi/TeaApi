@@ -1,5 +1,6 @@
 [
   {
+    "id": 1,
     "titre": "Thé vert Sencha",
     "prix": { 
       "1kg": 50.00,
@@ -10,6 +11,7 @@
     "note": "4/5"
   },
   {
+    "id": 2,
     "titre": "Thé noir Assam",
     "prix": {
       "1kg": 40.00,
@@ -20,6 +22,7 @@
     "note": "5/5"
   },
   {
+    "id": 3,
     "titre": "Thé blanc Pai Mu Tan",
     "prix": {
       "1kg": 60.00,
@@ -30,6 +33,7 @@
     "note": "4/5"
   },
   {
+    "id": 4,
     "titre": "Oolong Tie Guan Yin",
     "prix": {
       "1kg": 70.00,
@@ -40,6 +44,7 @@
     "note": "5/5"
   },
   {
+    "id": 5,
     "titre": "Thé noir Darjeeling",
     "prix": {
       "1kg": 55.00,
@@ -50,6 +55,7 @@
     "note": "3/5"
   },
   {
+    "id": 6,
     "titre": "Thé vert Gunpowder",
     "prix": {
       "1kg": 45.00,
@@ -60,6 +66,7 @@
     "note": "4/5"
   },
   {
+    "id": 7,
     "titre": "Thé noir Ceylan",
     "prix": {
       "1kg": 48.00,
@@ -70,6 +77,7 @@
     "note": "5/5"
   },
   {
+    "id": 8,
     "titre": "Thé blanc Silver Needle",
     "prix": {
       "1kg": 80.00,
@@ -80,6 +88,7 @@
     "note": "5/5"
   },
   {
+    "id": 9,
     "titre": "Oolong Da Hong Pao",
     "prix": {
       "1kg": 90.00,
@@ -90,6 +99,7 @@
     "note": "5/5"
   },
   {
+    "id": 10,
     "titre": "Thé vert Matcha",
     "prix": {
       "1kg": 120.00,
