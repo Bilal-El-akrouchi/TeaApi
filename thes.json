@@ -8,7 +8,7 @@
       "500g": 27.00, 
       "250g": 15.00
     },
-    "image": "https://example.com/images/sencha.jpg"
+    "image": "https://media.istockphoto.com/id/1960964219/photo/aromatic-tea-with-different-dry-herbs-and-honey-on-blue-wooden-table-closeup.jpg?s=1024x1024&w=is&k=20&c=B7Laj4iIic5L9sHBg6-0FTVJNICGGA9qMrzz6zefDRM="
   },
   {
     "titre": "Thé noir Assam",
@@ -17,7 +17,7 @@
       "500g": 22.00,
       "250g": 12.00
     },
-    "image": "https://example.com/images/assam.jpg"
+    "image": "https://media.istockphoto.com/id/861827180/photo/green-tea-with-herbals-tea-with-oregano-on-the-wooden-background.jpg?s=1024x1024&w=is&k=20&c=X6QQGrUU6_4FqEFAiy1xwc9MZ37Ne2rzrsGU9sxhZww="
   },
   {
     "titre": "Thé blanc Pai Mu Tan",
@@ -26,7 +26,7 @@
       "500g": 32.00,
       "250g": 17.00
     },
-    "image": "https://example.com/images/paimutan.jpg"
+    "image": "https://media.istockphoto.com/id/1223081258/photo/cup-of-tea-with-wild-marjoram-and-erica-flowers-dry-origanum-vulgare-and-heather-medicinal.jpg?s=1024x1024&w=is&k=20&c=1jKvL9NIB3DcE6iQh_F1bh-W29xMvgWS67txEZkIeGM="
   },
   {
     "titre": "Oolong Tie Guan Yin",
@@ -35,7 +35,7 @@
       "500g": 37.00,
       "250g": 20.00
     },
-    "image": "https://example.com/images/tieguanyin.jpg"
+    "image": "https://media.istockphoto.com/id/1168898217/photo/green-tea-leaves-in-wooden-spice-spoon-against-of-tea-cup.jpg?s=1024x1024&w=is&k=20&c=H6-9-m2JUr8S9NUCagxvvkVM9GKfkzgLSctal_Ei0Ls="
   },
   {
     "titre": "Thé noir Darjeeling",
@@ -44,7 +44,7 @@
       "500g": 30.00,
       "250g": 16.00
     },
-    "image": "https://example.com/images/darjeeling.jpg"
+    "image": "https://media.istockphoto.com/id/596358862/photo/herbal-tea-with-lavender-lavender-tea.jpg?s=1024x1024&w=is&k=20&c=UybtLMiQQZEagpp5l6SY1VlkYg-dsWf7mcwB553EH2A="
   },
   {
     "titre": "Thé vert Gunpowder",
@@ -53,7 +53,7 @@
       "500g": 25.00,
       "250g": 13.00
     },
-    "image": "https://example.com/images/gunpowder.jpg"
+    "image": "https://media.istockphoto.com/id/1084474072/photo/brewed-tea-on-a-serving-table.jpg?s=1024x1024&w=is&k=20&c=isZvgSAUOPkahOU9lUpK5C_FJJrqnIlohJwn7XbAe9E="
   },
   {
     "titre": "Thé noir Ceylan",
@@ -62,7 +62,7 @@
       "500g": 26.00,
       "250g": 14.00
     },
-    "image": "https://example.com/images/ceylan.jpg"
+    "image": "https://media.istockphoto.com/id/1192722029/photo/white-cup-of-healthy-hibiscus-tea-pouring-from-the-teapot-with-dried-hibiscus-flowers-on.jpg?s=1024x1024&w=is&k=20&c=Tp9FJ0eZd2D9hGMOr5hj45fG6qTNw_jurvkbCCzSJgc="
   },
   {
     "titre": "Thé blanc Silver Needle",
@@ -71,7 +71,7 @@
       "500g": 42.00,
       "250g": 22.00
     },
-    "image": "https://example.com/images/silverneedle.jpg"
+    "image": "https://media.istockphoto.com/id/1181945066/photo/autumn-spiced-tea-with-apples-and-pomegranates-side-view-against-white-wood-background-with.jpg?s=1024x1024&w=is&k=20&c=7ywPMaQyEB9SBG2SMmeEBVlGgHWKDS9paks1eTaFlHw="
   },
   {
     "titre": "Oolong Da Hong Pao",
@@ -80,7 +80,7 @@
       "500g": 48.00,
       "250g": 25.00
     },
-    "image": "https://example.com/images/dahongpao.jpg"
+    "image": "https://media.istockphoto.com/id/1174151804/photo/healthy-green-tea.jpg?s=1024x1024&w=is&k=20&c=jzUd8UViuzBeWu-tra4gC-Uf9IbvTr_Q4aI-xnAfAUU="
   },
   {
     "titre": "Thé vert Matcha",
@@ -89,6 +89,6 @@
       "500g": 65.00,
       "250g": 35.00
     },
-    "image": "https://example.com/images/matcha.jpg"
+    "image": "https://media.istockphoto.com/id/1332325962/photo/dry-black-tea-spilled-from-a-box-and-a-glass-mug-with-tea-on-the-table.jpg?s=1024x1024&w=is&k=20&c=5rtVRiom6UTJjrAYncV1uquSWhbmHI1Xw1cR9o343Y8="
   }
 ] 
